@@ -10,14 +10,17 @@
           {
             "id": "1d43a3f10e3f6a54",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
+              "type": "juggl_view",
               "state": {},
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Juggl"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -90,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -150,8 +153,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -160,8 +163,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -170,8 +173,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -209,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 540.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,8 +231,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "1293ac537f88dce7",
+  "active": "1d43a3f10e3f6a54",
   "lastOpenFiles": [
+    "이름 없는 보드 1.md",
+    "이름 없는 보드.md",
+    "정보처리기사/1.1.2 방법론 테일러링.md",
+    "정보처리기사/1.1.1 소프트웨어 개발 방법론.md",
+    "정보처리기사/1.1 소프트웨어 개발 방법론.md",
+    "정보처리기사/1. 소프트웨어 설계.md",
+    "정보처리기사/정보처리기사.md",
+    "markdown/마크다운 사용법.md",
+    "Pasted image 20250715214448.png",
+    "markdown",
     "Templates/Daily.md",
     "무제.md",
     "02-KNOWLEDGE/정보처리기사/정보처리기사.md",
@@ -248,14 +261,6 @@
     "02-KNOWLEDGE/정보처리기사/5.3.2 보안 솔루션.md",
     "02-KNOWLEDGE/정보처리기사/5.3.1 보안 공격 및 예방.md",
     "02-KNOWLEDGE/정보처리기사/5.2.2 시스템 보안 구축.md",
-    "02-KNOWLEDGE/정보처리기사/5.2.1 소프트웨어 개발 보안 구축.md",
-    "02-KNOWLEDGE/정보처리기사/5.2 개발 보안 구축.md",
-    "02-KNOWLEDGE/정보처리기사/5.1.4 정보 시스템 신기술 동향.md",
-    "02-KNOWLEDGE/정보처리기사/5.1.3 통신 프로토콜.md",
-    "02-KNOWLEDGE/정보처리기사/5.1.2 통신망 기술.md",
-    "02-KNOWLEDGE/정보처리기사/5.1.1 네트워크 구축 관리.md",
-    "02-KNOWLEDGE/정보처리기사/5.1 IT 프로젝트 정보 시스템 구축 관리.md",
-    "02-KNOWLEDGE/정보처리기사/4.5.3 기억 장치 관리.md",
     "02-KNOWLEDGE/CS_Basics/무제.canvas",
     "02-KNOWLEDGE/정보처리기사",
     "Templates",
@@ -265,7 +270,6 @@
     "03-PROJECTS/smartglass",
     "03-PROJECTS",
     "02-KNOWLEDGE/CS_Basics",
-    "02-KNOWLEDGE/Language",
-    "02-KNOWLEDGE/DevConcepts"
+    "02-KNOWLEDGE/Language"
   ]
 }
